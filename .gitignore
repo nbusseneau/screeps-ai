@@ -1,0 +1,8 @@
+# Node / NPM
+node_modules
+
+# Build output
+dist
+
+# Rollup destinations (contains auth tokens/passwords)
+screeps.json
